@@ -1,4 +1,4 @@
-# [rsschool-cv](https://heliogonzales.github.io/rsschool-cv/cv "rsschool-cv")
+# [rsschool-cv](https://heliogonzales.github.io/rsschool-cv/cv "cv")
 
 # Helio Gonzales Rivas
 
