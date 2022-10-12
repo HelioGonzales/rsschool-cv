@@ -61,7 +61,12 @@ section {
 .about-myself p, .code-example p {
   padding-top: 10px;
   text-align: justify;
-  /* padding-right: 30px; */
+}
+
+pre {
+  color: white;
+  background-color: gray;
+  padding: 10px;
 }
 
 .education div h3, p, ul, li {
@@ -75,7 +80,6 @@ section {
 
 .experience div ul li {
   text-align: justify;
-  /* padding-right: 30px; */
 }
 
 
